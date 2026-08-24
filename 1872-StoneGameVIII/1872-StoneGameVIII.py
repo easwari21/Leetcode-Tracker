@@ -1,4 +1,4 @@
-# Last updated: 8/24/2026, 8:21:36 AM
+# Last updated: 8/24/2026, 8:28:00 AM
 1class Solution:
 2    def stoneGameVIII(self, stones: List[int]) -> int:
 3        n = len(stones)
